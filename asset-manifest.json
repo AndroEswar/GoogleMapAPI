@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/GoogleMapAPI/static/css/main.a2f516e1.css",
+    "main.js": "/GoogleMapAPI/static/js/main.ccdd72d3.js",
+    "static/media/chalo.svg": "/GoogleMapAPI/static/media/chalo.7feb616bd2a79ca862ba8ca7c447426e.svg",
+    "index.html": "/GoogleMapAPI/index.html",
+    "main.a2f516e1.css.map": "/GoogleMapAPI/static/css/main.a2f516e1.css.map",
+    "main.ccdd72d3.js.map": "/GoogleMapAPI/static/js/main.ccdd72d3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a2f516e1.css",
+    "static/js/main.ccdd72d3.js"
+  ]
+}
